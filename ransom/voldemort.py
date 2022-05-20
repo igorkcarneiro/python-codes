@@ -1,4 +1,7 @@
 #!/usr/bin/env python3
+
+#from https://www.youtube.com/watch?v=UtMMjXOlRQc&ab_channel=NetworkChuck
+
 from cryptography.fernet import Fernet
 import os
 
